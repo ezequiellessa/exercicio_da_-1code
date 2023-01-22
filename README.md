@@ -1,4 +1,4 @@
-# exercicio_da_-1code
+# exercicio_da_+1code
 exercicios passados do professormmatheus da +1code
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/ezequiel-lessa-083528234//"><i>Ezequiel Lessa </i></a> 😃️</h1>
